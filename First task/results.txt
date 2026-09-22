@@ -1,0 +1,17 @@
+=====================================================
+          GENE EXPRESSION ANALYSIS REPORT            
+=====================================================
+
+       Gene Control Treated Mean_Expression Fold_Change        Status
+BRCA1 BRCA1     5.2     8.9            7.05       1.712   upregulated
+TP53   TP53     7.8     7.6            7.70       0.974        stable
+EGFR   EGFR     3.1     6.7            4.90       2.161   upregulated
+MYC     MYC     9.4    12.1           10.75       1.287   upregulated
+PTEN   PTEN     6.0     2.3            4.15       0.383 downregulated
+KRAS   KRAS     4.5     9.8            7.15       2.178   upregulated
+
+--- Genes with Fold Change > 1.5 ---
+       Gene Fold_Change
+BRCA1 BRCA1       1.712
+EGFR   EGFR       2.161
+KRAS   KRAS       2.178
